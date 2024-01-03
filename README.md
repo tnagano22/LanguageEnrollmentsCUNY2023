@@ -1251,7 +1251,7 @@ p + theme_hc() + scale_fill_identity() + # + scale_colour_hc() +
     theme(axis.title.x = element_text(margin=margin(t=10)))
 ```
 
-<img src="RProcedureMLAEnrollmentSurveyCUNY2023_files/figure-gfm/unnamed-chunk-5-1.png" style="display: block; margin: auto;" />
+<img src="files/figure-gfm/unnamed-chunk-5-1.png" style="display: block; margin: auto;" />
 
 ``` r
 #  theme(legend.key.size = unit(1, 'cm'), #change legend key size
@@ -1281,7 +1281,7 @@ p + theme_hc() + scale_fill_identity() + # + scale_colour_hc() +
     theme(axis.title.x = element_text(margin=margin(t=10)))
 ```
 
-<img src="RProcedureMLAEnrollmentSurveyCUNY2023_files/figure-gfm/unnamed-chunk-5-2.png" style="display: block; margin: auto;" />
+<img src="files/figure-gfm/unnamed-chunk-5-2.png" style="display: block; margin: auto;" />
 
 ``` r
 #  theme(legend.key.size = unit(1, 'cm'), #change legend key size
